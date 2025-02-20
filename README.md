@@ -1,7 +1,7 @@
 
 # **Dev_DIU**  
 
-Meu nome é Diuliano Stefhano sou apaixonado por tecnologia desde criança e hoje estou podendo realizar esse sonho de aprender a programar igual eu presenciava em filmes
+Meu nome é Diuliano Stefhano sou apaixonado por tecnologia desde criança e hoje estou estudando a Linguagem Java e pretendo ingressar no mercado nessa area
 
 ## **Conecte-se comigo**  
 
