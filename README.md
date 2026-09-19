@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! Sou o Diuliano Stephan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=550&lines=Comprometido+com+a+Excelência+em+Software;Especialista+em+Construção+de+Back-End;Foco+Absoluto+em+Arquitetura+Java+%26+Spring" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Engenharia+de+Software+Back-End;Especialista+em+Ecossistema+Java+%26+Spring;Arquitetura+Robusta+e+Escalável" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -37,12 +37,4 @@ Desenvolvedor Back-End movido pela busca contínua de eficiência, clareza e rob
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,idea,linux,maven,gradle&theme=dark" alt="Tech Stack Icons" />
-</p>
-
----
-
-## 🐍 Ritmo de Código
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Stephan55/Stephan55/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Animação de cobra" />
 </p>
