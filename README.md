@@ -33,18 +33,10 @@ Desenvolvedor Back-End movido pela busca contínua de eficiência, clareza e rob
 
 ---
 
-## 📊 Estatísticas e Desempenho no GitHub
+## 📊 Domínio de Tecnologias
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stephan55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephan55&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens Mais Usadas" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stephan55&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,idea,linux,maven,gradle&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -52,5 +44,5 @@ Desenvolvedor Back-End movido pela busca contínua de eficiência, clareza e rob
 ## 🐍 Ritmo de Código
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Stephan55/Stephan55/main/dist/github-contribution-grid-snake.svg" alt="Animação de cobra" />
+  <img src="https://raw.githubusercontent.com/Stephan55/Stephan55/main/dist/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="Animação de cobra" />
 </p>
