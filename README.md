@@ -1,28 +1,41 @@
+<h1 align="center">Olá, eu sou o Diuliano! 👋</h1>
 
-# **Dev_DIU**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F89820&center=true&vCenter=true&width=500&lines=Desenvolvedor+Back-End;Focado+em+Evoluir+em+Java;Construindo+Soluções+Robustas" alt-text="Typing Animation" />
+</p>
 
-Meu nome é Diuliano Stefhano sou apaixonado por tecnologia desde criança e hoje estou estudando a Linguagem Java e pretendo ingressar no mercado nessa area
+<p align="center">
+  <a href="https://www.linkedin.com/in/diuliano-stefhano-884b0b320/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</p>
 
-## **Conecte-se comigo**  
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diuliano-stefhano-884b0b320/)  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/Stefhan55) [![Instagram](https://img.shields.io/badge/-Instagram-%39FF14?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/diuartt?igsh=MWFoN21lcGpzNnN0dQ%3D%3D)
+## 🚀 Sobre Mim
 
+Sou apaixonado por tecnologia desde criança e atualmente estou focado em consolidar meus conhecimentos e atuar profissionalmente com **Java**, construindo uma base sólida para o desenvolvimento de sistemas robustos e eficientes.
 
-## **Habilidades Front-End** 
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 	
-## **Habilidades Back-End**  
+## 💻 Stack Principal & Ferramentas
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ"/>
+</p>
 
-## **Bancos de Dados**
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+## 📈 Estatísticas do GitHub
 
-## **GitHub Status**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stefhan55&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=39FF14&title_color=39FF14&text_color=FFF&hide_title=true) ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Stefhan55&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
-
-## **Minhas Constribuiçoes**
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stefhan55&repo=JavaDojo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Stefhan55/JavaDojo) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Stefhan55&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Stefhan55/dio-lab-open-source)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Stephan55&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephan55&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
