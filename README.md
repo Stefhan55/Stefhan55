@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! Sou o Diuliano Stephan 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;Especialista+em+Java+%26+Spring;Foco+em+Alta+Performance" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End+Júnior;Praticante+de+Java+%26+Spring;Em+Evolução+e+Especialização+Contínua" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -22,10 +22,10 @@
 ## 💼 Perfil & Compromisso Profissional
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=header&text=Engenharia%20de%20Software%20Escalável&fontSize=22&fontColor=fff&animation=fadeIn" alt="Header Waving Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,20,30,40&height=120&section=header&text=Evolução%20Técnica%20Constante&fontSize=22&fontColor=fff&animation=fadeIn" alt="Header Waving Animation" />
 </p>
 
-Desenvolvedor Back-End movido pela busca contínua de eficiência, clareza e robustez estrutural. Atualmente, direciono minha carreira para a **engenharia de software de alta performance**, com foco estrito no ecossistema **Java** e em metodologias modernas de desenvolvimento. Meu compromisso é entregar soluções escaláveis, seguras e alinhadas às reais necessidades de negócio.
+Desenvolvedor Back-End em nível intermediário, movido pela busca diária de eficiência e clareza estrutural. Atualmente, foco o meu desenvolvimento na engenharia de software com **Java e Spring**, consolidando uma base sólida de conhecimentos práticos e teóricos. O meu compromisso é evoluir de forma consistente para entregar soluções robustas, seguras e bem estruturadas.
 
 ---
 
