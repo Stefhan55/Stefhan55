@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! Sou o Diuliano Stephan 👋</h1>
+<h1 align="center">Olá! Sou o Diuliano Stephano </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End+Júnior;Praticante+de+Java+%26+Spring;Em+Evolução+e+Especialização+Contínua" alt="Typing Animation" />
